@@ -1,2 +1,64 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+🧑‍💼 Profil Professionnel
+Christophe CHANDELIER - Consultant spécialisé dans l'accompagnement des entreprises du BTP, basé au Mans et sa périphérie.
+💼 Mission Actuelle
+"J'aide les entrepreneurs du BTP à améliorer leur organisation, leur productivité et leur prise de décision."
+Consultant spécialisé bâtiment chez Cerfrance Mayenne-Sarthe depuis octobre 2019 (5+ ans), vous accompagnez les dirigeants sur :
+
+La stratégie et la performance d'entreprise
+L'optimisation des processus et la digitalisation
+La création d'outils no-code personnalisés
+Le pilotage et l'analyse de données
+
+🎯 Expertise Technique
+Compétences Clés :
+
+Lean Construction - Optimisation des processus BTP
+No-Code - AppSheet, Notion, Make (Integromat), n8n
+Data & Analytics - Looker Studio, analyses économiques
+Gestion de projets - Développement de produits, méthodologie agile
+IA & Automatisation - Intégration d'outils IA dans les workflows
+
+Outils Maîtrisés :
+
+Automatisation : n8n (en cours d'apprentissage), Make
+Bases de données : Notion (Pro et Modèle)
+Visualisation : Looker Studio
+Développement : Python (certification CS50)
+IA : Claude, GPT-4, modèles open source
+
+📚 Parcours & Formation
+Expérience Professionnelle :
+
+Cerfrance (2019-présent) - Consultant stratégie BTP
+ViaREN (2013-2019) - Gestionnaire Grands Chantiers & Métreur
+ArtiContact (2010-2013) - Entrepreneur, Courtier en travaux
+
+Formation :
+
+MBA International - Dublin Business School (2008-2009)
+Technicien métreur - AFPA Le Mans (2011-2012)
+CS50 Python - Harvard (Certification récente)
+Licence Pro Hôtellerie-Tourisme - Paris 13
+
+🌍 Localisation & Langues
+
+Basé à : Brette-les-Pins, Pays de la Loire
+Zone d'intervention : Le Mans et périphérie
+Langues : Français (natif), Anglais (professionnel)
+
+🚀 Projets Actuels
+
+Migration et maîtrise de n8n pour l'automatisation
+Intégration de l'IA dans les processus métiers BTP
+Développement de solutions no-code sur mesure
+Création de workflows multi-LLM pour l'analyse comparative
+
+🎨 Style de Travail
+Vous privilégiez une approche pratique et pédagogique, préférant montrer et expliquer plutôt que de simplement coder. Vous encouragez l'expérimentation et l'apprentissage par la pratique.
+📧 Contact
+
+Email : christophechandelier@gmail.com
+LinkedIn : Profil LinkedIn
+
+
+Ce profil combine votre expertise BTP traditionnelle avec une forte orientation vers la transformation digitale et l'innovation technologique, positionnant vous comme un pont entre le monde traditionnel du bâtiment et les nouvelles technologies.
